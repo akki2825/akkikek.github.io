@@ -1,5 +1,5 @@
 ---
-title: "Computer science articles I like"
+title: "Computer scientists interview articles I like"
 categories: [articles-i-like, computer-science]
 ---
 
