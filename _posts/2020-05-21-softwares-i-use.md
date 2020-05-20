@@ -35,7 +35,7 @@ Here are the list of softwares I use for almost everything.
 
 ### PDF viewer
 
-[Zathura](https://en.wikipedia.org/wiki/Zathura_(document_viewer)
+[Zathura](https://en.wikipedia.org/wiki/Zathura_(document_viewer))
 
 
 ### Window Manager
