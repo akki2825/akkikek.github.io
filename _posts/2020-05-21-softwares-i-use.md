@@ -1,3 +1,8 @@
+---
+title: "Softwares I use"
+categories: [personal-config]
+---
+
 ## Softwares I use
 
 Here are the list of softwares I use for almost everything.
