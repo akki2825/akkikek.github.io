@@ -75,6 +75,7 @@ My personal technical projects and open source contributions are [here](https://
 
 My non-technical project was in Material Science. The project was to analyse Corrosion and Wear behaviour of developed Fly-ash based Thermal Spray coating.
 
+
 ## Education
 
 ### Bachelor of Automobile Engineering (2012-2016)
@@ -82,6 +83,20 @@ My non-technical project was in Material Science. The project was to analyse Cor
 I completed by Bachelor of Engineering in Automobile Engineering from Dayanand Sagar College of Engineering (VTU) in Bangalore, India.
 
 Since I have been self-taught in Computer Science and Linguistics, I have taken several in-person courses and MOOCs through the time.
+
+
+## Technical Skills
+
+- [Softwares I use](https://akki2825.github.io/personal-config/2020/05/21/softwares-i-use.html)
+- Programming Languages - Python, Haskell, Javascript, PHP
+
+
+## Misc. Info
+
+- Plays Acoustic guitar
+- Certified Carnatic singer
+- A chess hobbyist (part of School and College team)
+- Part of a local science club and an [NGO](http://panchajanya.org)
 
 
 ## Contact Me
