@@ -60,9 +60,34 @@ I've explored jobs from car mechanic to software engineer, but the majority has 
 
 - Built website for the [NGO](http://panchajanya.org) I work for in 2018
 
+
 ### Freelancing
 
 - Designed and Developed a search tool for Online (Business) Listings. Built using Python and Elasticsearch in 2017
 - Built website for [Pelican Biotech](http://pelicanbiotech.com) in 2016
 - Reviewed code and designed few components for a Stealth Startup in 2017
-- Full stack dev at a Ed-tech startup
+- Full stack dev and consulting at an Ed-tech startup
+
+
+## Personal projects
+
+My personal technical projects and open source contributions are [here](https://github.com/akki2825)
+
+My non-technical project was in Material Science. The project was to analyse Corrosion and Wear behaviour of developed Fly-ash based Thermal Spray coating.
+
+## Education
+
+### Bachelor of Automobile Engineering (2012-2016)
+
+I completed by Bachelor of Engineering in Automobile Engineering from Dayanand Sagar College of Engineering (VTU) in Bangalore, India.
+
+Since I have been self-taught in Computer Science and Linguistics, I have taken several in-person courses and MOOCs through the time.
+
+
+## Contact Me
+
+You can message me via:
+
+- [Email](mailto:akki.kr94@gmail.com)
+- [Twitter](https://twitter.com/Akhilesh_k_r)
+- [LinkedIn](https://www.linkedin.com/in/akhilesh-kr/)
