@@ -80,7 +80,7 @@ My non-technical project was in Material Science. The project was to analyse Cor
 
 **Bachelor of Automobile Engineering (2012-2016)**
 
-I completed by Bachelor of Engineering in Automobile Engineering from Dayanand Sagar College of Engineering (VTU) in Bangalore, India.
+I completed my Bachelor of Engineering in Automobile Engineering from Dayanand Sagar College of Engineering (VTU) in Bangalore, India.
 
 Since I have been self-taught in Computer Science and Linguistics, I have taken several in-person courses and MOOCs through the time.
 
