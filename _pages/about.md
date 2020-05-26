@@ -12,6 +12,8 @@ I'm self-taught on both Computer Science and Linguistics, and have an engineerin
 
 I've explored jobs from car mechanic to software engineer, but the majority has been NLP engineer/practitioner at startups.
 
+Having worked with early stage startups most of my career, I have had the opportunity to wear multiple hats, and fortunate to have great managers, colleagues and friends who have helped me enjoy every role so far.
+
 
 ## Jobs
 
