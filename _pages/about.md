@@ -103,7 +103,7 @@ Since I'm self-taught in Computer Science and Linguistics, I have taken several 
 ### Sports
 
 - A chess hobbyist (part of School and College team).
-- Occationally plays Cricket and Badminton.
+- Occasionally plays Cricket and Badminton.
 
 
 ### Social
