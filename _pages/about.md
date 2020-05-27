@@ -12,7 +12,7 @@ After earning my Bachelor’s in Automobile Engineering, I have since moved on t
 
 Much of my interests were shaped through my professional journey, and have since explored jobs from a car mechanic to a software engineer, but the majority has been NLP engineering in startups.
 
-Having worked with early stage startups most of my career, I have had the opportunity to build on many fronts such as Machine Translation Systems, Voice assistants, and Multilingual Chatbots, and the good fortune of having great managers, colleagues and friends who have helped me enjoy every role so far.
+Having worked with early stage startups most of my career, I have had the opportunity to build on many fronts such as _Machine Translation Systems_, _Voice assistants_, and _Multilingual Chatbots_, and the good fortune of having great managers, colleagues and friends who have helped me enjoy every role so far.
 
 
 ## Jobs
