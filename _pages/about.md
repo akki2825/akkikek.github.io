@@ -23,7 +23,7 @@ Having worked with **early stage startups** most of my career, I have had the op
 
 - Working with the Government of Assam in building a language platform for Assamese with the aim to digitize Assamese and English government documents and build a Machine Translation System.
 - On the way built various tools to aid the process from data sourcing to NMT/SMT pipelines.
-- I've built both Statistical Machine Translation (SMT) and Neural Machine Translation pipelines for English-Hindi and English-Assamese.
+- I've built both Statistical Machine Translation (SMT) and Neural Machine Translation pipelines (NMT) for English-Hindi and English-Assamese.
 - Alongside I have worked on Language Complexity and Topic Modelling.
 
 
