@@ -27,7 +27,7 @@ Having worked with early stage startups most of my career, I have had the opport
 - Alongside I have worked on Language Complexity and Topic Modelling.
 
 
-**Vernacular.ai: Natural Language Processing Engineer (2017-2019)** [Website](https://vernacular.ai) [Github](https://github.com/civicdatalab/)
+**Vernacular.ai: Natural Language Processing Engineer (2017-2019)** [Website](https://vernacular.ai) [Github](https://github.com/vernacular-ai/)
 
 - As an early employee, I had the opportunity to build many components involved in both Voice Assistants and Multi-lingual Chatbots from the ground up.
 - Worked with linguists to build Classifiers, Transliteration (which converts native script to Roman equivalent of it), Language Detector, Tokenizers, POS Taggers, Spellcheckers and various other Parsers for Kannada, Telugu, Tamil, Malayalam and Hindi.
