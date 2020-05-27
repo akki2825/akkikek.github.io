@@ -38,7 +38,7 @@ Having worked with early stage startups most of my career, I have had the opport
 **Ramco Systems (2017)**
 
 - Involved in designing and developing Chatbot for a Human Resource (HR) system, I also was the sole owner of all the Machine Learning components and the prime developer.
-- I was responsible for all bug Fixes, documentation and feature implementation for these components.
+- I was responsible for all bug fixes, documentation and feature implementation for these components.
 - Built Classifiers using Neural Networks and few traditional Machine Learning Algorithms to handle 40 distinct skills. Alongside Classifiers, I've built various Parsers to provide rich customer experience.
 - I've crafted users’ conversations and implemented them using Finite State Machines.
 
