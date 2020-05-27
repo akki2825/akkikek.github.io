@@ -22,9 +22,9 @@ Having worked with early stage startups most of my career, I have had the opport
 **CivicDataLab: Natural Language Processing Researcher (2019 - Present)** [Website](https://www.civicdatalab.in/) [Github](https://github.com/civicdatalab/)
 
 - Working with the Government of Assam in building a language platform for Assamese with the aim to digitize Assamese and English government documents, and build a Machine Translation System.
-- On the way built various tools to aid the process from data sourcing to NMT/SMT pipelines.
+- On the way, built various tools to aid the process from data sourcing to NMT/SMT pipelines.
 - I've built both Statistical Machine Translation (SMT) and Neural Machine Translation pipelines (NMT) for English-Hindi and English-Assamese.
-- Alongside I have worked on Language Complexity and Topic Modelling.
+- Alongside, I have worked on Corpus Linguistics, Language Complexity and Topic Modelling.
 
 
 **Vernacular.ai: Natural Language Processing Engineer (2017-2019)** [Website](https://vernacular.ai) [Github](https://github.com/vernacular-ai/)
@@ -32,12 +32,12 @@ Having worked with early stage startups most of my career, I have had the opport
 - As an early employee, I had the opportunity to build many components involved in both Voice Assistants and Multi-lingual Chatbots from the ground up.
 - Worked with linguists to build Classifiers, Transliteration (which converts native script to Roman equivalent of it), Language Detector, Tokenizers, POS Taggers, Spellcheckers and various other Parsers for Kannada, Telugu, Tamil, Malayalam and Hindi.
 - Involved in designing and developing end-to-end speech and natural language processing A.I. systems for automating Customer Care System.
-- Adopted various strategies to enrich customer experience such as, iteratively changing dialog management, predicting user responses and so on.
+- Adopted various strategies to enrich customer experience such as: iteratively changing the dialog management system, predicting user responses and so on.
 
 
 **Ramco Systems (2017)**
 
-- Involved in designing and developing Chatbot for a Human Resource (HR) system, I also was the sole owner of all the Machine Learning components and the prime developer.
+- Involved in designing and developing a Chatbot for a Human Resource (HR) system, I was the sole owner of all the Machine Learning components and the prime developer.
 - I was responsible for all bug fixes, documentation and feature implementation for these components.
 - Built Classifiers using Neural Networks and few traditional Machine Learning Algorithms to handle 40 distinct skills. Alongside Classifiers, I've built various Parsers to provide rich customer experience.
 - I've crafted users’ conversations and implemented them using Finite State Machines.
@@ -47,13 +47,13 @@ Having worked with early stage startups most of my career, I have had the opport
 
 **Sense Infinity Technologies (2016)**
 
-- Designed and Developed a Cross-Platform Food Delivery Application written with AngularJS (Ionic Framework and Cordova).
+- Designed and developed a Cross-Platform Food Delivery Application written with AngularJS (Ionic Framework and Cordova).
 - Involved in building backend for a restaurant booking application using PHP (Laravel).
 
 
 **Maruti Suzuki (2014)**
 
-- Worked as a Car Service floor trainee.
+- Worked as a Car Service Floor trainee.
 
 
 ### Volunteering
@@ -82,7 +82,7 @@ My non-technical project (in Material Science) was to analyse Corrosion and Wear
 
 I completed my Bachelor of Engineering in Automobile Engineering from Dayanand Sagar College of Engineering (VTU) in Bangalore, India.
 
-Since I'm self-taught in Computer Science and Linguistics, I have taken several in-person courses, conferences and MOOCs through the time.
+Since I'm self-taught in Computer Science and Linguistics, I have taken several in-person courses and MOOCs through the time.
 
 
 ## Technical Skills
@@ -94,7 +94,7 @@ Since I'm self-taught in Computer Science and Linguistics, I have taken several 
 
 ## My work in Music
 
-- Plays Acoustic guitar.
+- Plays acoustic guitar.
 - Certified Carnatic singer.
 
 
