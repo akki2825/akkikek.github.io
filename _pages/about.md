@@ -10,7 +10,7 @@ permalink: /about/
 
 After earning my **Bachelor’s in Automobile Engineering**, I have since moved on to teach myself **Computer Science and Linguistics**.
 
-Much of my interests were shaped through my professional journey, and have since explored jobs from **a car mechanic to a software engineer**, but the majority has been **NLP engineering** in startups.
+Much of my interests were shaped through my professional journey, and have since explored jobs from **a Car Mechanic to a Software Engineer**, but the majority has been **NLP engineering** in startups.
 
 Having worked with **early stage startups** most of my career, I have had the opportunity to build on many fronts such as _Machine Translation Systems_, _Voice assistants_, and _Multilingual Chatbots_, and the good fortune of having great managers, colleagues and friends who have helped me enjoy every role so far.
 
@@ -21,10 +21,11 @@ Having worked with **early stage startups** most of my career, I have had the op
 
 **CivicDataLab: Natural Language Processing Researcher (2019 - Present)** [Website](https://www.civicdatalab.in/) [Github](github.com/civicdatalab/)
 
-- With the aim to digitize Assamese and English government documents and build a machine translation system, I have worked with Government of Assam in building a language platform for Assamese.
+- Working with the Government of Assam in building a language platform for Assamese with the aim to digitize Assamese and English government documents and build a Machine Translation System.
 - On the way built various tools to aid the process from data sourcing to NMT/SMT pipelines.
 - I've built both Statistical Machine Translation (SMT) and Neural Machine Translation pipelines for English-Hindi and English-Assamese.
 - Alongside I have worked on Language Complexity and Topic Modelling.
+
 
 **Vernacular.ai: Natural Language Processing Engineer (2017-2019)** [Website](https://vernacular.ai) [Github](github.com/civicdatalab/)
 
