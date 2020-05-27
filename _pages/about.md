@@ -31,7 +31,7 @@ Having worked with **early stage startups** most of my career, I have had the op
 
 - As an early employee, I had the opportunity to build many components involved in both Voice Assistants and Multi-lingual Chatbots from the ground up.
 - Worked with linguists to build Classifiers, Transliteration (which converts native script to Roman equivalent of it), Language Detector, Tokenizers, POS Taggers, Spellcheckers and various other Parsers for Kannada, Telugu, Tamil, Malayalam and Hindi.
-- Involved in Designing and Developing end-to-end speech and natural language processing A.I. systems for automating Customer Care System.
+- Involved in designing and developing end-to-end speech and natural language processing A.I. systems for automating Customer Care System.
 - Adopted various strategies to enrich customer experience such as having right kind of dialog management, predicting user responses and so on.
 
 
@@ -39,7 +39,6 @@ Having worked with **early stage startups** most of my career, I have had the op
 
 - Involved in designing and developing Chatbot for a Human Resource (HR) system, I also was the sole owner of all the Machine Learning components and the prime developer.
 - I was responsible for all bug Fixes, documentation and feature implementation for these components.
-- I was the sole owner of all the Machine Learning components and the only developer. I was responsible for all Bugfixes, Documentation and feature implementation for these components.
 - Built Classifiers using Neural Networks and few traditional Machine Learning Algorithms to handle 40 distinct skills. Alongside Classifiers, I've built various Parsers to provide rich customer experience.
 - I've crafted users’ conversations and implemented them using Finite State Machines.
 
