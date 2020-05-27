@@ -32,7 +32,7 @@ Having worked with early stage startups most of my career, I have had the opport
 - As an early employee, I had the opportunity to build many components involved in both Voice Assistants and Multi-lingual Chatbots from the ground up.
 - Worked with linguists to build Classifiers, Transliteration (which converts native script to Roman equivalent of it), Language Detector, Tokenizers, POS Taggers, Spellcheckers and various other Parsers for Kannada, Telugu, Tamil, Malayalam and Hindi.
 - Involved in designing and developing end-to-end speech and natural language processing A.I. systems for automating Customer Care System.
-- Adopted various strategies to enrich customer experience such as, having right kind of dialog management, predicting user responses and so on.
+- Adopted various strategies to enrich customer experience such as, iteratively changing dialog management, predicting user responses and so on.
 
 
 **Ramco Systems (2017)**
