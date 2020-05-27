@@ -49,7 +49,7 @@ Having worked with **early stage startups** most of my career, I have had the op
 **Sense Infinity Technologies (2016)**
 
 - Designed and Developed a Cross-Platform Food Delivery Application written with AngularJS (Ionic Framework and Cordova).
-- Involved in building backened for a restaurant booking application using PHP (Laravel).
+- Involved in building backend for a restaurant booking application using PHP (Laravel).
 
 
 **Maruti Suzuki (2014)**
@@ -59,22 +59,22 @@ Having worked with **early stage startups** most of my career, I have had the op
 
 ### Volunteering
 
-- Built website for the [NGO](http://panchajanya.org) I work for in 2018.
+- Built website for an [NGO](http://panchajanya.org) I work for, in 2018.
 
 
 ### Freelancing
 
-- Designed and Developed a search tool for Online (Business) Listings. Built using Python and Elasticsearch in 2017.
+- Designed and Developed a search tool for Online (Business) Listings using Python and Elasticsearch in 2017.
 - Built website for [Pelican Biotech](http://pelicanbiotech.com) in 2016.
-- Reviewed code and designed few components for a Stealth Startup in 2017.
+- Reviewed code and designed few Python components for a Stealth Startup in 2017.
 - Full stack dev and consulting at an Ed-tech startup.
 
 
 ## Personal projects
 
-My personal technical projects and open source contributions are [here](https://github.com/akki2825)
+My personal technical projects and open source contributions are [here](https://github.com/akki2825).
 
-My non-technical project was in Material Science. The project was to analyse Corrosion and Wear behaviour of developed Fly-ash based Thermal Spray coating.
+My non-technical project (in Material Science) was to analyse Corrosion and Wear behaviour of developed Fly-ash based Thermal Spray coating.
 
 
 ## Education
@@ -83,13 +83,14 @@ My non-technical project was in Material Science. The project was to analyse Cor
 
 I completed my Bachelor of Engineering in Automobile Engineering from Dayanand Sagar College of Engineering (VTU) in Bangalore, India.
 
-Since I have been self-taught in Computer Science and Linguistics, I have taken several in-person courses and MOOCs through the time.
+Since I'm self-taught in Computer Science and Linguistics, I have taken several in-person courses, conferences and MOOCs through the time.
 
 
 ## Technical Skills
 
 - [Softwares I use](https://akki2825.github.io/personal-config/2020/05/21/softwares-i-use.html)
 - Programming Languages - Python, Haskell (Beginner), Javascript, PHP
+- Frameworks - PyTorch, Tensorflow
 
 
 ## My work in Music
