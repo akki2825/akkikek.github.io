@@ -21,7 +21,7 @@ Having worked with **early stage startups** most of my career, I have had the op
 
 **CivicDataLab: Natural Language Processing Researcher (2019 - Present)** [Website](https://www.civicdatalab.in/) [Github](github.com/civicdatalab/)
 
-- Working with the Government of Assam in building a language platform for Assamese with the aim to digitize Assamese and English government documents and build a Machine Translation System.
+- Working with the Government of Assam in building a language platform for Assamese with the aim to digitize Assamese and English government documents, and build a Machine Translation System.
 - On the way built various tools to aid the process from data sourcing to NMT/SMT pipelines.
 - I've built both Statistical Machine Translation (SMT) and Neural Machine Translation pipelines (NMT) for English-Hindi and English-Assamese.
 - Alongside I have worked on Language Complexity and Topic Modelling.
@@ -94,21 +94,21 @@ Since I have been self-taught in Computer Science and Linguistics, I have taken 
 
 ## My work in Music
 
-- Plays Acoustic guitar
-- Certified Carnatic singer
+- Plays Acoustic guitar.
+- Certified Carnatic singer.
 
 
 ## Other Interests
 
 ### Sports
 
-- A chess hobbyist (part of School and College team)
-- Occationally plays Cricket and Badminton
+- A chess hobbyist (part of School and College team).
+- Occationally plays Cricket and Badminton.
 
 
 ### Social
 
-- Part of a local science club and an [NGO](http://panchajanya.org)
+- Part of a local science club and an [NGO](http://panchajanya.org).
 
 
 ## Contact Me
