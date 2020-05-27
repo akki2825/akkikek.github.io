@@ -19,7 +19,7 @@ Having worked with early stage startups most of my career, I have had the opport
 
 ### Full-time
 
-**CivicDataLab: Natural Language Processing Researcher (2019 - Present)** [Website](https://www.civicdatalab.in/) [Github](github.com/civicdatalab/)
+**CivicDataLab: Natural Language Processing Researcher (2019 - Present)** [Website](https://www.civicdatalab.in/) [Github](https://github.com/civicdatalab/)
 
 - Working with the Government of Assam in building a language platform for Assamese with the aim to digitize Assamese and English government documents, and build a Machine Translation System.
 - On the way built various tools to aid the process from data sourcing to NMT/SMT pipelines.
@@ -27,12 +27,12 @@ Having worked with early stage startups most of my career, I have had the opport
 - Alongside I have worked on Language Complexity and Topic Modelling.
 
 
-**Vernacular.ai: Natural Language Processing Engineer (2017-2019)** [Website](https://vernacular.ai) [Github](github.com/civicdatalab/)
+**Vernacular.ai: Natural Language Processing Engineer (2017-2019)** [Website](https://vernacular.ai) [Github](https://github.com/civicdatalab/)
 
 - As an early employee, I had the opportunity to build many components involved in both Voice Assistants and Multi-lingual Chatbots from the ground up.
 - Worked with linguists to build Classifiers, Transliteration (which converts native script to Roman equivalent of it), Language Detector, Tokenizers, POS Taggers, Spellcheckers and various other Parsers for Kannada, Telugu, Tamil, Malayalam and Hindi.
 - Involved in designing and developing end-to-end speech and natural language processing A.I. systems for automating Customer Care System.
-- Adopted various strategies to enrich customer experience such as having right kind of dialog management, predicting user responses and so on.
+- Adopted various strategies to enrich customer experience such as, having right kind of dialog management, predicting user responses and so on.
 
 
 **Ramco Systems (2017)**
