@@ -8,7 +8,7 @@ permalink: /about/
 
 **I'm Akhilesh**. I’m a Natural Language Processing (NLP) Engineer working on Indic languages. I delight myself in building computational tools for natural language processing.
 
-After earning my Bachelor’s in Automobile Engineering, I have since moved on to teach myself Computer Science and Linguistics ever since computational linguistics caught my interests.
+After earning my Bachelor’s in Automobile Engineering, I have since moved on to teach myself Computer Science and Linguistics.
 
 Much of my interests were shaped through my professional journey, and have since explored jobs from a car mechanic to a software engineer, but the majority has been NLP engineering in startups.
 
