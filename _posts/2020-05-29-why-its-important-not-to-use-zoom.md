@@ -1,5 +1,5 @@
 ---
-title: "Why its important not to use Zoom"
+title: "Why it's important not to use Zoom"
 categories: [computer-science]
 ---
 
