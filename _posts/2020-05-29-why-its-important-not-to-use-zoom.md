@@ -3,7 +3,7 @@ title: "Why its important not to use Zoom"
 categories: [computer-science]
 ---
 
-[Zoom](https://zoom.us/) is all over the place. I'm going to talk about why its important to *not* use Zoom.
+[Zoom](https://zoom.us/) is all over the place. I'm going to talk about why its important to **not** use Zoom.
 
 > Zoom is a closed-source video conferencing service.
 
