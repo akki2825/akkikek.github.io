@@ -10,7 +10,7 @@ categories: [computer-science]
 Zoom has come a long way with severe privacy and security issues.
 Let's start by exploring where it all started..
 
-[First problem](https://www.tenable.com/blog/tenable-research-advisory-zoom-unauthorized-command-execution-cve-2018-1571) was discovered in 2018. Zoom had vulnerability on all of the desktop application on Windows, MacOS and Linux. This would allow someone who isn't a meeting attendee to hijack the meeting and become the _Host_. The Host gets few scary abilities such as remotely enabling participant's microphone or webcam, send keystrokes and can even share their screen. Sounds like a trojan?
+[First problem](https://www.tenable.com/blog/tenable-research-advisory-zoom-unauthorized-command-execution-cve-2018-1571) was discovered in 2018. Zoom had vulnerability on all of the desktop application on Windows, MacOS and Linux. This would allow someone who isn't a meeting attendee to hijack the meeting and become the _Host_. The Host gets a few scary abilities such as remotely enabling participant's microphone or webcam, send keystrokes and can even share their screen. Sounds like a trojan?
 
 Just after a few months, in July 2019, [another security flaw](https://www.theverge.com/2019/7/8/20687014/zoom-security-flaw-video-conference-websites-hijack-mac-cameras) was identified and this time the vulnerability allowed websites access to the webcam on Macbooks. The MacOS version of Zoom used to install a webserver that would take requests that the standard browser would not. There was no notice to the user who installed it, that a webserver would be running on their app. Worse is, the webserver would be left behind even after you uninstall Zoom.
 
