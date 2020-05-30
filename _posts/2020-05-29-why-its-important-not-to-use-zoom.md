@@ -25,4 +25,4 @@ There are many law-suits pending against Zoom. Some are in regards to the privac
 
 _Wait, what? Relationship with China?_ [Yes](https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/). Zoom routes many of its calls to Chinese servers even when calling participants are in the US. It doesn't make sense geographically to route a call to China if both of the calling participants are in the USA, as it is adding unnecessary latency and overhead.
 
-If you haven't figured it out by now, you shouldn't use Zoom. Start exploring Free and Open source video conferencing services like [Tox (qtox)](https://tox.chat), [Jitsi](https://jitsi.org/) and [Ekiga](http://www.ekiga.org/).
+If you haven't figured it out by now, you shouldn't use Zoom. Start exploring Freedom-respecting and Open-source video conferencing services like [Tox (qtox)](https://tox.chat), [Jitsi](https://jitsi.org/) and [Ekiga](http://www.ekiga.org/).
