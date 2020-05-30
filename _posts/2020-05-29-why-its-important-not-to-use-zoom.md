@@ -19,7 +19,7 @@ In 2020, [what Zoom’s privacy policy says is worse than "You don’t have any 
 
 It uses [encryption](https://support.zoom.us/hc/en-us/articles/201362723-Encryption-for-Meetings) that is more similar to [transport layer security](https://en.wikipedia.org/wiki/Transport_Layer_Security) where they encrypt the [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) and [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol) connections with [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) and this is no way an end-to-end encryption because it still has the access to all of the meetings, audios, and anything that you've sent over that connection once it hits their server.
 
-There are many law-suits pending against Zoom. Some are in regards to the privacy policy where they have shared and sold the data about their users to customers without any consent. Other law suits are in some severe security issues like the users being able to access each others email, contact info, linkedin profiles without giving users heads up as to any of this is happening.
+There are many law-suits pending against Zoom. Some are in regards to the privacy policy where they have shared and sold the data about their users to customers without any consent. Other law suits are in some severe security issues like the users being able to access each others email and contact infowithout giving users heads up as to any of this is happening.
 
 [US government has banned the use of Zoom for government officials](https://arstechnica.com/tech-policy/2020/04/us-senate-tells-members-not-to-use-zoom/) because of all these security flaws and its relationship with China.
 
