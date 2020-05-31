@@ -16,7 +16,7 @@ From the [DoD Software Acquisition and Practices (SWAP) study](https://innovatio
 [Federal Source Code Policy](https://sourcecode.cio.gov/): "requires agencies, when commissioning new custom software, to release at least 20 percent of new custom-developed code as Open Source Software (OSS)".
 
 
-Here are a few agencies that have embrassed the Federal Source Code Policy:
+Here are a few agencies that have embraced the Federal Source Code Policy:
 
 - [Social Security Administration (SSA)](https://www.ssa.gov/digitalstrategy/m_16_21_Implementation_Plan.html)
 - [GSA Open Source Software Policy](https://www.gsa.gov/directives-library/gsa-open-source-software-oss-policy-21071-cio)
