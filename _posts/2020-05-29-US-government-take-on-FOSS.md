@@ -5,7 +5,7 @@ categories: [computer-science]
 
 > Free software is software that respects your freedom.
 
-This is a running blog about how the U.S government *uses* and *advocates* Free and Open Source Software.
+This is a running blog on how the U.S government *uses* and *advocates* Free and Open Source Software.
 
 The [US Department of Defence's (DoD) OSS FAQ](https://dodcio.defense.gov/Open-Source-Software-FAQ/) states, "continuous and broad peer-review, enabled by publicly available source code, improves software reliability and security through the identification and elimination of defects that might otherwise go unrecognized".
 
