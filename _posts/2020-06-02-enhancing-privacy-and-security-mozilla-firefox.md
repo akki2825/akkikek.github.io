@@ -42,9 +42,13 @@ browser.formfil.enable = false
 **Disable disk caching**
 
 browser.cache.disk.enable = false
+
 browser.cache.disk_cache_ssl = false
+
 browser.cache.memory.enable = false
+
 browser.cache.offline.enable = false
+
 browser.cache.insecure.enable = false
 
 **Disable geolocation services**
