@@ -25,10 +25,10 @@ security.ssl3.rsa_des_ede3_sha = false
 
 security.ssl.require_safe_negotiation = true
 
-Disable TLS 1.0, 1.1
+**Disable TLS 1.0, 1.1**
 
 security.tls.version.min = 3
-enables TLS 1.3
+
 tls.version.max = 4
 
 **Disable Zero round trip time**
@@ -58,16 +58,27 @@ geo.enabled = false
 **Disable ALL telemetery**
 
 browser.newtabpage.activity-stream.feeds.telemetry = false
+
 browser.pingcentre.telemetry = false
+
 devtools.onboarding.telemetry-logged = false
+
 media.wmf.deblacklisting-for-telemetry-in-gpu-process = false
+
 toolkit.telemetry.archive.enabled = false
+
 toolkit.telemetry.bhrping.enabled = false
+
 toolkit.telemetry.firstshutdownping.enabled = false
+
 toolkit.telemetry.hybridcontent.enabled = false
+
 toolkit.telemetry.newprofileping.enabled = false
+
 toolkit.telemetry.unified = false
+
 toolkit.telemetry.updateping.enabled = false
+
 toolkit.telemetry.shutdownpingsender.enabled = false
 
 **Disable WebGL**
