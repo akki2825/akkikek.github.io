@@ -1,6 +1,6 @@
 ---
 title: "Enhancing Privacy and Security of Mozilla Firefox (Draft)"
-categories: [computer-science, snippets, personal-config]
+categories: [computer-science, personal-config]
 ---
 
 This post highlights a few ways to enhance privacy and security of Mozilla Firefox without using any addons. It is mostly a textual version of [Mental Outlaw's video](https://www.youtube.com/watch?v=xxWXLlfqNAo).
