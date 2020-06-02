@@ -55,7 +55,7 @@ browser.cache.insecure.enable = false
 
 geo.enabled = false
 
-**Disable ALL telemetery**
+**Disable all Telemetery**
 
 browser.newtabpage.activity-stream.feeds.telemetry = false
 
