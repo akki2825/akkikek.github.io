@@ -11,36 +11,52 @@ Start configuring by typing in `about:config`
 
 **Disable WebRTC**
 
+```
 media.peerconnection.enabled = false
+```
 
 **Enable fingerprint resistance**
 
+```
 privacy.resistfingerprinting = true
+```
 
 **Disable 3DES Cypher**
 
+```
 security.ssl3.rsa_des_ede3_sha = false
+```
+
 
 **Optimize SSL**
 
+```
 security.ssl.require_safe_negotiation = true
+```
 
 **Disable TLS 1.0, 1.1**
 
+```
 security.tls.version.min = 3
 
 tls.version.max = 4
+```
 
 **Disable Zero round trip time**
 
+```
 security.tls.enable_0rtt_data = false
+```
+
 
 **Disable Automatic Formfill**
 
+```
 browser.formfil.enable = false
-
+```
 **Disable disk caching**
 
+```
 browser.cache.disk.enable = false
 
 browser.cache.disk_cache_ssl = false
@@ -50,13 +66,17 @@ browser.cache.memory.enable = false
 browser.cache.offline.enable = false
 
 browser.cache.insecure.enable = false
+```
 
 **Disable geolocation services**
 
+```
 geo.enabled = false
+```
 
 **Disable all Telemetery**
 
+```
 browser.newtabpage.activity-stream.feeds.telemetry = false
 
 browser.pingcentre.telemetry = false
@@ -80,17 +100,24 @@ toolkit.telemetry.unified = false
 toolkit.telemetry.updateping.enabled = false
 
 toolkit.telemetry.shutdownpingsender.enabled = false
+```
 
 **Disable WebGL**
 
+```
 webgl.disabled = true
+```
 
 **Enable first-party isolation**
 
+```
 privacy.firstparty.isolate = true
+```
 
 **Disable TLS false start**
 
+```
 security.ssl.enable_false_start = false
+```
 
 Check the safety of your browser against tracking on [Panopticlick](https://panopticlick.eff.org).
