@@ -1,4 +1,5 @@
 ---
+comments: true
 title: "Enhancing Privacy and Security of Mozilla Firefox (Draft)"
 categories: [computer-science, personal-config]
 ---
