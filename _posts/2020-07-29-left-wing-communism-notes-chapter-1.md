@@ -6,8 +6,7 @@ categories: [politics, communism]
 Here's a collection of series of notes from the classic work, ["Left-Wing" Communism: an Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/) by Lenin.
 
 
-This book was written by Lenin, in 1920, at the time of the 2nd Congress of the Comintern (short for Communist International). Commintern is where representatives of different communist parties of the world would meet. The representatives were given the copy of the book during this meet and went on for the broader circulation later.
-
+This book was written by Lenin, in 1920, at the time of the 2nd Congress of the Comintern (short for Communist International). Commintern is where representatives of different communist parties of the world would meet. The representatives were given the initial copy of the book during this meet.
 
 This post is my notes from Chapter 1: [In What Sense We Can Speak of the International Significance of the Russian Revoluion ](https://www.marxists.org/archive/lenin/works/1920/lwc/ch01.htm)
 
