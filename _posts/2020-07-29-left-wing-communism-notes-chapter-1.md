@@ -1,5 +1,5 @@
 ---
-title: "Notes: Left wing Communism by Lenin - Chapter 1"
+title: "Notes: Left Wing Communism by Lenin - Chapter 1"
 categories: [politics, communism]
 ---
 
