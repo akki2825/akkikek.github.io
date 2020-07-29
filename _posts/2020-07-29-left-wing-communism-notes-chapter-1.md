@@ -11,7 +11,7 @@ This book was written by Lenin, in 1920, at the time of the 2nd Congress of the 
 
 This post is my notes from Chapter 1: [In What Sense We Can Speak of the International Significance of the Russian Revoluion ](https://www.marxists.org/archive/lenin/works/1920/lwc/ch01.htm)
 
-```txt
+```
 I am speaking of it in the narrowest sense of the word,
 taking international significance to mean the international validity
 or the historical inevitability of a repetition,
@@ -23,11 +23,12 @@ do possess that significance.
 **International significance** means _that thing(s)_ which in the russian revolution (The October Revolution or The Bolshevik Revolution) is valid for all countries and is not a one time fluke in one place.
 
 
-```txt
+```
 It would, of course, be grossly erroneous to exaggerate this truth
 and to extend it beyond certain fundamental features of our revolution.
 It would also be erroneous to lose sight of the fact that,
-soon after the victory of the proletarian revolution in at least one of the advanced countries,
+soon after the victory of the proletarian revolution in
+at least one of the advanced countries,
 a sharp change will probably come about: Russia will cease to be the model
 and will once again become a backward country (in the “Soviet” and the socialist sense).
 ```
@@ -38,7 +39,7 @@ He also states that probably in the future, the revolution is going to spread to
 
 This comes from the context of time, as western countries were more liberal and had progressive ideas, and thus, given the political liberties, Socialists could have worked more freely. Naturally, nobody expected Russia to be the leading Socialist country.
 
-```txt
+```
 At the present moment in history, however, it is the Russian model
 that reveals to all countries something — and something highly significant —
 of their near and inevitable future.
@@ -55,7 +56,7 @@ Class instinct is your Proletarian gut feeling. Class consciousness is the fact 
 The main point is that the revolution succeeded only in Russia and we have to look at - The Soviets and Bolshevism, more deeply.
 
 
-```txt
+```
 The “revolutionary” leaders of the Second International,
 such as Kautsky in Germany and Otto Bauer and Friedrich Adler in Austria,
 have failed to understand this,
