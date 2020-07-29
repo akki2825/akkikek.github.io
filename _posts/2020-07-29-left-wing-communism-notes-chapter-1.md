@@ -18,15 +18,10 @@ This post is my notes from Chapter 1: [In What Sense We Can Speak of the Interna
 **International significance** means _that thing(s)_ which in the russian revolution (The October Revolution or The Bolshevik Revolution) is valid for all countries and is not a one time fluke in one place.
 
 
-```
-It would, of course, be grossly erroneous to exaggerate this truth
-and to extend it beyond certain fundamental features of our revolution.
-It would also be erroneous to lose sight of the fact that,
-soon after the victory of the proletarian revolution in
-at least one of the advanced countries,
-a sharp change will probably come about: Russia will cease to be the model
+<span style="color:red">
+"It would, of course, be grossly erroneous to exaggerate this truth and to extend it beyond certain fundamental features of our revolution. It would also be erroneous to lose sight of the fact that, soon after the victory of the proletarian revolution in at least one of the advanced countries, a sharp change will probably come about: Russia will cease to be the model
 and will once again become a backward country (in the “Soviet” and the socialist sense).
-```
+</span>
 
 Ofcourse, there are only those core things that are universally applicable as each country has different circumstances, historical context and so on, especially given that this revolution happened almost a hundred years ago.
 
@@ -34,29 +29,17 @@ He also states that probably in the future, the revolution is going to spread to
 
 This comes from the context of time, as western countries were more liberal and had progressive ideas, and thus, given the political liberties, Socialists could have worked more freely. Naturally, nobody expected Russia to be the leading Socialist country.
 
-```
-At the present moment in history, however, it is the Russian model
-that reveals to all countries something — and something highly significant —
-of their near and inevitable future.
-Advanced workers in all lands have long realised this;
-more often than not, they have grasped it with their
-revolutionary class instinct rather than realised it.
-Herein lies the international “significance”
-(in the narrow sense of the word) of Soviet power,
-and of the fundamentals of Bolshevik theory and tactics.
-```
+<span style="color:red">
+"At the present moment in history, however, it is the Russian model that reveals to all countries something — and something highly significant — of their near and inevitable future. Advanced workers in all lands have long realised this; more often than not, they have grasped it with their revolutionary class instinct rather than realised it. Herein lies the international “significance” (in the narrow sense of the word) of Soviet power, and of the fundamentals of Bolshevik theory and tactics.
+</span>
 
 Class instinct is your Proletarian gut feeling. Class consciousness is the fact that you are politically knowledgable.
 
 The main point is that the revolution succeeded only in Russia and we have to look at - The Soviets and Bolshevism, more deeply.
 
 
-```
-The “revolutionary” leaders of the Second International,
-such as Kautsky in Germany and Otto Bauer and Friedrich Adler in Austria,
-have failed to understand this,
-which is why they have proved to be reactionaries
-and advocates of the worst kind of opportunism and social treachery.
-```
+<span style="color:red">
+"The “revolutionary” leaders of the Second International, such as Kautsky in Germany and Otto Bauer and Friedrich Adler in Austria, have failed to understand this, which is why they have proved to be reactionaries and advocates of the worst kind of opportunism and social treachery.
+</span>
 
 _Social treachery_ is when you are a Socialist/Leftist but are a traitor to Leftism/Socialism.
