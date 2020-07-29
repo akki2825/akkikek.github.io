@@ -11,14 +11,9 @@ This book was written by Lenin, in 1920, at the time of the 2nd Congress of the 
 
 This post is my notes from Chapter 1: [In What Sense We Can Speak of the International Significance of the Russian Revoluion ](https://www.marxists.org/archive/lenin/works/1920/lwc/ch01.htm)
 
-```
-I am speaking of it in the narrowest sense of the word,
-taking international significance to mean the international validity
-or the historical inevitability of a repetition,
-on an international scale, of what has taken place in our country.
-It must be admitted that certain fundamental features of our revolution
-do possess that significance.
-```
+<span style="color:red">
+"I am speaking of it in the narrowest sense of the word, taking international significance to mean the international validity or the historical inevitability of a repetition, on an international scale, of what has taken place in our country. It must be admitted that certain fundamental features of our revolution do possess that significance."
+</span>
 
 **International significance** means _that thing(s)_ which in the russian revolution (The October Revolution or The Bolshevik Revolution) is valid for all countries and is not a one time fluke in one place.
 
