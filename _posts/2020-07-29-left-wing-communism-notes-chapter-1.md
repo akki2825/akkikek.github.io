@@ -11,7 +11,7 @@ This book was written by Lenin, in 1920, at the time of the 2nd Congress of the 
 
 This post is my notes from Chapter 1: [In What Sense We Can Speak of the International Significance of the Russian Revoluion ](https://www.marxists.org/archive/lenin/works/1920/lwc/ch01.htm)
 
-```
+```txt
 I am speaking of it in the narrowest sense of the word,
 taking international significance to mean the international validity
 or the historical inevitability of a repetition,
