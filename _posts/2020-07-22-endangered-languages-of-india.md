@@ -1,7 +1,7 @@
 ---
 keywords: fastai
 description: summary
-title: Title
+title: Endangered languages of India
 nb_path: _notebooks/2020-07-22-endangered-languages-of-india.ipynb
 layout: notebook
 ---
@@ -14,28 +14,16 @@ layout: notebook
 -->
 
 <div class="container" id="notebook-container">
-        
+
     {% raw %}
-    
+
 <div class="cell border-box-sizing code_cell rendered">
 
 </div>
     {% endraw %}
 
-<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Endangered-languages-of-India">Endangered languages of India<a class="anchor-link" href="#Endangered-languages-of-India"> </a></h1><ul>
-<li>toc:true- branch: master</li>
-<li>badges: true</li>
-<li>comments: true</li>
-<li>categories: [nlp]</li>
-</ul>
-
-</div>
-</div>
-</div>
     {% raw %}
-    
+
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 
@@ -90,7 +78,7 @@ layout: notebook
         });
         }
         </script>
-        
+
 </div>
 
 </div>
@@ -102,7 +90,7 @@ layout: notebook
     {% endraw %}
 
     {% raw %}
-    
+
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 
@@ -120,7 +108,7 @@ layout: notebook
     {% endraw %}
 
     {% raw %}
-    
+
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 
@@ -139,7 +127,7 @@ layout: notebook
     {% endraw %}
 
     {% raw %}
-    
+
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 
@@ -295,7 +283,7 @@ layout: notebook
 </div>
 </div>
     {% raw %}
-    
+
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 
@@ -314,7 +302,7 @@ layout: notebook
         <span class="n">text</span> <span class="o">=</span> <span class="n">language_ind</span><span class="p">[</span><span class="n">language_ind</span><span class="o">.</span><span class="n">risk</span> <span class="o">==</span> <span class="n">i</span><span class="p">][</span><span class="s1">&#39;language&#39;</span><span class="p">],</span>
         <span class="n">mode</span> <span class="o">=</span> <span class="s1">&#39;markers&#39;</span><span class="p">,</span>
         <span class="n">name</span> <span class="o">=</span> <span class="n">labels</span><span class="p">[</span><span class="n">i</span><span class="o">-</span><span class="mi">1</span><span class="p">],</span>
-        <span class="n">marker</span> <span class="o">=</span> <span class="nb">dict</span><span class="p">(</span> 
+        <span class="n">marker</span> <span class="o">=</span> <span class="nb">dict</span><span class="p">(</span>
             <span class="n">size</span> <span class="o">=</span> <span class="mi">12</span><span class="p">,</span>
             <span class="n">opacity</span> <span class="o">=</span> <span class="mf">0.85</span><span class="p">,</span>
             <span class="n">color</span> <span class="o">=</span> <span class="n">colors</span><span class="p">[</span><span class="n">i</span><span class="o">-</span><span class="mi">1</span><span class="p">],</span>
@@ -358,14 +346,14 @@ layout: notebook
 
 <div class="output_html rendered_html output_subarea ">
 <div>
-        
-        
+
+
             <div id="cb578dea-7bbd-4e78-aede-92346e3a5883" class="plotly-graph-div" style="height:525px; width:100%;"></div>
             <script type="text/javascript">
                 require(["plotly"], function(Plotly) {
                     window.PLOTLYENV=window.PLOTLYENV || {};
                     window.PLOTLYENV.BASE_URL='https://plot.ly';
-                    
+
                 if (document.getElementById("cb578dea-7bbd-4e78-aede-92346e3a5883")) {
                     Plotly.newPlot(
                         'cb578dea-7bbd-4e78-aede-92346e3a5883',
@@ -373,7 +361,7 @@ layout: notebook
                         {"geo": {"countrycolor": "rgb(217, 217, 217)", "countrywidth": 1, "lakecolor": "rgb(255, 255, 255)", "landcolor": "rgb(250, 250, 250)", "scope": "asia", "showlakes": true, "showland": true, "subunitcolor": "rgb(217, 217, 217)", "subunitwidth": 1}, "legend": {"x": 0.85, "y": 0.4}, "showlegend": true, "title": {"text": "Languages by Latitude/Longitude in India (2016)<br><sub>Click Legend to Display or Hide Categories</sub>"}},
                         {"showLink": false, "linkText": "Export to plot.ly", "plotlyServerURL": "https://plot.ly", "responsive": true}
                     ).then(function(){
-                            
+
 var gd = document.getElementById('cb578dea-7bbd-4e78-aede-92346e3a5883');
 var x = new MutationObserver(function (mutations, observer) {{
         var display = window.getComputedStyle(gd).display;
@@ -418,7 +406,7 @@ if (outputEl) {{
 </div>
 </div>
     {% raw %}
-    
+
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 
@@ -438,7 +426,7 @@ if (outputEl) {{
         <span class="n">mode</span> <span class="o">=</span> <span class="s1">&#39;markers&#39;</span><span class="p">,</span>
         <span class="n">name</span> <span class="o">=</span> <span class="n">labels</span><span class="p">[</span><span class="n">i</span><span class="o">-</span><span class="mi">1</span><span class="p">],</span>
         <span class="n">hoverinfo</span> <span class="o">=</span> <span class="s1">&#39;text+name&#39;</span><span class="p">,</span>
-        <span class="n">marker</span> <span class="o">=</span> <span class="nb">dict</span><span class="p">(</span> 
+        <span class="n">marker</span> <span class="o">=</span> <span class="nb">dict</span><span class="p">(</span>
             <span class="n">size</span> <span class="o">=</span> <span class="p">(</span><span class="n">language_ind</span><span class="p">[</span><span class="n">language_ind</span><span class="o">.</span><span class="n">risk</span> <span class="o">==</span> <span class="n">i</span><span class="p">][</span><span class="s1">&#39;population&#39;</span><span class="p">]</span> <span class="o">+</span> <span class="mi">1</span><span class="p">)</span> <span class="o">**</span> <span class="mf">0.18</span> <span class="o">*</span> <span class="mi">6</span><span class="p">,</span>
             <span class="n">opacity</span> <span class="o">=</span> <span class="mf">0.85</span><span class="p">,</span>
             <span class="n">color</span> <span class="o">=</span> <span class="n">colors</span><span class="p">[</span><span class="n">i</span><span class="o">-</span><span class="mi">1</span><span class="p">],</span>
@@ -481,14 +469,14 @@ if (outputEl) {{
 
 <div class="output_html rendered_html output_subarea ">
 <div>
-        
-        
+
+
             <div id="df1cfa20-dc79-450b-bd97-3602cd065ae1" class="plotly-graph-div" style="height:525px; width:100%;"></div>
             <script type="text/javascript">
                 require(["plotly"], function(Plotly) {
                     window.PLOTLYENV=window.PLOTLYENV || {};
                     window.PLOTLYENV.BASE_URL='https://plot.ly';
-                    
+
                 if (document.getElementById("df1cfa20-dc79-450b-bd97-3602cd065ae1")) {
                     Plotly.newPlot(
                         'df1cfa20-dc79-450b-bd97-3602cd065ae1',
@@ -496,7 +484,7 @@ if (outputEl) {{
                         {"geo": {"countrycolor": "rgb(217, 217, 217)", "countrywidth": 1, "lakecolor": "rgb(255, 255, 255)", "landcolor": "rgb(250, 250, 250)", "scope": "asia", "showlakes": true, "showland": true, "subunitcolor": "rgb(217, 217, 217)", "subunitwidth": 1}, "legend": {"x": 0.85, "y": 0.4}, "showlegend": true, "title": {"text": "Languages by Population in India (2016)<br><sub>Click Legend to Display or Hide Categories</sub>"}},
                         {"showLink": false, "linkText": "Export to plot.ly", "plotlyServerURL": "https://plot.ly", "responsive": true}
                     ).then(function(){
-                            
+
 var gd = document.getElementById('df1cfa20-dc79-450b-bd97-3602cd065ae1');
 var x = new MutationObserver(function (mutations, observer) {{
         var display = window.getComputedStyle(gd).display;
@@ -535,5 +523,3 @@ if (outputEl) {{
     {% endraw %}
 
 </div>
- 
-
