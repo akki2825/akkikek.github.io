@@ -3,4 +3,4 @@ title: "Moving to spacemacs"
 categories: [snippets, personal-config]
 ---
 
-Spacemacs is setup.
+[Spacemacs](https://www.spacemacs.org/#) is setup.
