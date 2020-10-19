@@ -6,7 +6,7 @@ permalink: /about/
 
 **Hi!**
 
-**I'm Akhilesh**. I’m a **Natural Language Processing (NLP) Engineer** working on **Indic languages**. I delight myself in building computational tools for natural language processing.
+**I'm Akhilesh**. I’m a **Natural Language Processing (NLP) Engineer** working on **Indic languages** (specifically, North-East Indian languages). I delight myself in building computational tools for natural language processing.
 
 After earning my Bachelor’s in Automobile Engineering, I have since moved on to teach myself Computer Science and Linguistics.
 
@@ -19,7 +19,7 @@ Having worked with early stage startups most of my career, I have had the opport
 
 ### Full-time
 
-**CivicDataLab: Natural Language Processing Researcher (2019 - Present)** [Website](https://www.civicdatalab.in/) [Github](https://github.com/civicdatalab/)
+**CivicDataLab: Natural Language Processing Researcher (2019 - 2020)** [Website](https://www.civicdatalab.in/) [Github](https://github.com/civicdatalab/)
 
 - Working with the Government of Assam in building a language platform for Assamese with the aim to digitize Assamese and English government documents, and build a Machine Translation System.
 - On the way, built various tools to aid the process from data sourcing to NMT/SMT pipelines.
