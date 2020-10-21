@@ -6,7 +6,7 @@ permalink: /about/
 
 **Hi!**
 
-**I'm Akhilesh**. I’m a **Natural Language Processing (NLP) Engineer** working on **Indic languages** (specifically, North-East Indian languages). I'm currently building language technologies for underrepresented communities.
+**I'm Akhilesh**. I’m a **Natural Language Processing (NLP) Engineer** working on **Indic languages** (specifically, North-East Indian languages). I build language technologies for underrepresented communities.
 
 After earning my Bachelor’s in Automobile Engineering, I have since moved on to teach myself Computer Science and Linguistics.
 
