@@ -1,6 +1,7 @@
 ---
-title: ""
+title: "Privacy Policy"
 categories: []
+hide: true
 ---
 
 ## Privacy Policy
@@ -54,7 +55,11 @@ By continuing to access or use our Service after any revisions become effective,
 If you have any questions about these Terms, please contact us.
 
 IMCLS.org
+
 Cheta Rehko, Roing,
+
 Lower Dibang valley District
+
 Arunachal Pradesh - 792110
+
 Email: imclsroing@gmail.com
