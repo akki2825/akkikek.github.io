@@ -15,7 +15,7 @@ Here are the list of softwares I use for almost everything.
 
 ### Web browser
 
-[Firefox](https://www.mozilla.org/en-US/exp/firefox/new/) with vim key bindings.
+[LibreWolf](https://librewolf-community.gitlab.io/) with vim key bindings.
 
 
 ### Terminal
