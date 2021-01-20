@@ -30,7 +30,7 @@ Here are the list of softwares I use for almost everything.
 
 ### Mail Client
 
-[Neomutt](https://neomutt.org/)
+[Neomutt](https://neomutt.org/) & [Doom Emacs](https://github.com/hlissner/doom-emacs)
 
 
 ### Video player
