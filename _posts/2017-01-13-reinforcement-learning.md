@@ -11,8 +11,8 @@ In the standard RL model, on each step of interaction the agent receives as inpu
 An intuitive way to understand the relation between the agent and its environment is with the following example:
 
 *Environment* : You are in state 65. You have 4 possible actions.
-*Agent: I’ll take action 2.
-Environment: You received a reinforcement of 7 units. You are in state 15. You have 2 possible actions.
+*Agent*: I’ll take action 2.
+*Environment*: You received a reinforcement of 7 units. You are in state 15. You have 2 possible actions.
 
 The agent’s job is to find a policy Π, mapping states to actions, that maximizes some long run measure of reinforcement. We assume the environment is stationary.
 
@@ -30,7 +30,7 @@ Important ideas in Reinforcement Learning that came up –
 
 - A set of states s∈S
 - A set of actions a∈A
-- A transition function T(s,a,s’) . Also called the model or the dynamics. P(s’|s,a) = T(s,a,s’)
+- A transition function T(s,a,s’). Also called the model or the dynamics. P(s’|s,a) = T(s,a,s’)
 - The reward function R(s,a,s’)
 - Start state
 - Maybe a terminal state
