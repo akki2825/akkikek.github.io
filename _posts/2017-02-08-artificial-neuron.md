@@ -4,11 +4,14 @@ categories: [machine-learning]
 ---
 Artificial neuron is simply a computational unit, which makes a particular computation based on other units it is connected to.
 
+![Artificial Neuron](../images/io_neuron.jpg)
+
 Pre-activation (or input activation): a(x) = b + ∑wi + xi
 
 Neuron (output) activation: h(x) = g(a(x))
 
 where, g(.) is called activation function, b is called neuron bias and w is the connection weights.
+
 
 Activation functions:
 
