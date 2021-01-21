@@ -15,30 +15,43 @@ Activation functions:
 - **Linear activation function**
 
     g(a) = a
+    
     Performs no input squashing
 
 - **Sigmoid activation function**
 
     g(a) = sigm(a) = 1/1 + exp(-a)
+    
     Squashes the neuron’s pre-activation between 0 and 1.
+    
     Always positive
+    
     Bounded
+    
     Strictly increasing
 
 - **Hyperbolic tangent(tanh) activation function**
 
     g(a) = tanh(a)
+    
     Squashes the neuron’s pre-activation between -1 and 1
+    
     Can be positive or negative
+    
     Bounded
+    
     Strictly increasing
 
 - **Rectified Linear Activation function**
     
     g(a) = reclin(a) = max(0,a)
+    
     Bounded below by 0 and always non-negative
+    
     Not upper bounded
+    
     Monotomically increasing
+    
     Tends to give neurons sparse activities. That is, the value is zero across many different sets of inputs.
 
 **Capacity of a single neuron**
