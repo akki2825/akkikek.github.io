@@ -45,7 +45,8 @@ Activation functions:
 
 Capacity essentially means, the complexity of the computation that a neuron can perform.
 
-- It could do binary classification with Sigmoid, which can interpret neuron as estimating p(y=1|x). That is, the probability of input ‘x’ belonging to class 1. (Since, we are using sigmoid activation function the output is bounded b/w 0 and 1). It is also known as logistic regression classifier. If the value is greater than 0.5, predict class 1, otherwise, predict 0.
+- It could do binary classification with Sigmoid,
+  which can interpret neuron as estimating p(y=1|x). That is, the probability of input ‘x’ belonging to class 1. (Since, we are using sigmoid activation function the output is bounded b/w 0 and 1). It is also known as logistic regression classifier. If the value is greater than 0.5, predict class 1, otherwise, predict 0.
 
 - The classifier is performing linear classification, so, if we have a problem where we want to classify objects described by input vectors into different classes, if we can draw a hyperplane or a line (in case of 2d) between these two types of objects, then a single artificial neuron could do that for us!
 
