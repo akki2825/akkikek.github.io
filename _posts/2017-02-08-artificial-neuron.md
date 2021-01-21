@@ -4,7 +4,7 @@ categories: [machine-learning]
 ---
 Artificial neuron is simply a computational unit, which makes a particular computation based on other units it is connected to.
 
-![](../images/io_neuron.jpg)
+![](images/io_neuron.jpg)
 
 Pre-activation (or input activation): a(x) = b + ∑wi + xi
 
