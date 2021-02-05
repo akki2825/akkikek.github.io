@@ -25,7 +25,7 @@ Here are the list of softwares I use for almost everything.
 
 ### Text Editor
 
-[Neovim](https://neovim.io)
+[Neovim](https://neovim.io) and [Doom Emacs](https://github.com/hlissner/doom-emacs)
 
 
 ### Mail Client
@@ -66,3 +66,12 @@ Here are the list of softwares I use for almost everything.
 ### Spreadsheet
 
 [LibreOffice](https://www.libreoffice.org/)
+
+### File Manager
+
+[lf](https://github.com/gokcehan/lf)
+
+### Shell
+
+[zsh](https://www.zsh.org/) and [fish](http://fishshell.com/)
+
