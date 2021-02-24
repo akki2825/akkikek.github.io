@@ -6,60 +6,66 @@ permalink: /about/
 
 **Hi!**
 
-**I'm Akhilesh**. I’m a **Natural Language Processing (NLP) Engineer** working on **Indic languages** (specifically, North-East Indian languages). I build language technologies for underrepresented communities.
-
-After earning my Bachelor’s in Automobile Engineering, I have since moved on to teach myself Computer Science and Linguistics.
-
-Much of my interests were shaped through my professional journey, and have since explored jobs from a Car Mechanic to a Software Engineer, but the majority has been NLP engineering in startups.
-
-Having worked with early stage startups most of my career, I have had the opportunity to build on many fronts such as _Machine Translation Systems_, _Voice assistants_, and _Multilingual Chatbots_, and the good fortune of having great managers, colleagues and friends who have helped me enjoy every role so far.
+**I'm Akhilesh**. I’m a **Natural Language Processing (NLP) Engineer** working on **Indic languages** (specifically, North-East Indian languages). My primary research interests include Natural language processing, Indigenous language revitalization and Edu-tech.
 
 
-## Jobs
+## Experience
 
-### Full-time
+### Language Revitalization
+
+**VANI (Vernacular Archive of North-East India: Founder (2020 - present)** [Website](https://projectvani.org/) [Github](https://github.com/project-vani)
+
+- A non-profit initiative aimed at documentation, digitization and development of AI based tools for the vernacular languages of the Northeast India.
+- Managing Partnerships and Tech.
+- In continuous collaboration with Idu Mishmi Cultural and Literary Society (Apex body of Idu Mishmi community) of Arunachal Pradesh as part of the language revitalization, the first ever E-dictionary has been built in the form of an [Offline Mobile Dictonary application](https://play.google.com/store/apps/details?id=imcls.dictionary.demo_flutter) and several e-books have been published.
+- Coverage:
+  - [Launch of the E-dictionary](https://arunachaltimes.in/index.php/2020/12/14/imcls-launches-mishmi-idu-dictionary-app/)
+  - [Promotion from the Chief Minister of Arunachal Pradesh](https://m.facebook.com/story.php?story_fbid=4876201042454353&id=1037093553031807&sfnsn=wiwspwa)
+
+
+### Full-time Employment
 
 **CivicDataLab: Natural Language Processing Researcher (2019 - 2020)** [Website](https://www.civicdatalab.in/) [Github](https://github.com/civicdatalab/)
 
-- Working with the Government of Assam in building a language platform for Assamese with the aim to digitize Assamese and English government documents, and build a Machine Translation System.
-- On the way, built various tools to aid the process from data sourcing to NMT/SMT pipelines.
-- I've built both Statistical Machine Translation (SMT) and Neural Machine Translation pipelines (NMT) for English-Hindi and English-Assamese.
-- Alongside, I have worked on Corpus Linguistics, Language Complexity and Topic Modelling.
+- Played an integral role in developing and maintaining partnerships with various Non-Governmental Organizations and Governments.
+- Worked on building Language Platform for Assamese language that includes - Optical Character Recognition (for Assamese), Machine Translation system for English and Assamese, Assamese keyboard, Rich text editor and building Parallel Corpus for English and Assamese.
+- Case studies:
+  - Analysing language complexity of Union Budget Speeches.
+  - Topic modeling on Union Budget suggestions to understand citizens’ input for the Union Budget 2020.
+- Built Crowd-sourced Translation platform to aid the process of disseminating credible COVID-19 related information in local languages.
+- Involved in building Text Annotation platform to perform Sequence Labeling. It was being used to annotate entities and relations in Indian Court judgements.
 
+**Vernacular.ai: Natural Language Processing Engineer (2017-2019)** [Website](https://vernacular.ai) [Github](https://github.com/vernacular-ai/) [Team](https://vernacular-ai.github.io/ml/team)
 
-**Vernacular.ai: Natural Language Processing Engineer (2017-2019)** [Website](https://vernacular.ai) [Github](https://github.com/vernacular-ai/)
-
-- As an early employee, I had the opportunity to build many components involved in both Voice Assistants and Multi-lingual Chatbots from the ground up.
-- Worked with linguists to build Classifiers, Transliteration (which converts native script to Roman equivalent of it), Language Detector, Tokenizers, POS Taggers, Spellcheckers and various other Parsers for Kannada, Telugu, Tamil, Malayalam and Hindi.
+- Early stage of the company presented me with an  opportunity to build many technical components involved in both Voice Assistants and Multi-lingual Chatbots from the ground up.
 - Involved in designing and developing end-to-end speech and natural language processing A.I. systems for automating Customer Care System.
-- Adopted various strategies to enrich customer experience such as: iteratively changing the dialog management system, predicting user responses and so on.
+- Adopted various strategies to enrich customer experience such as: conversation design framework, dialog management system, predicting user responses and so on.
 
+**Ramco Systems: Software Engineer (2017)** [Website](https://www.ramco.com/chatbot/)
 
-**Ramco Systems (2017)**
+- Prime developer in Designing and Developing a Chatbot for Human Resource (HR) system.
+- Responsible for all the Bug fixes, Documentation and feature implementation of the Machine Learning components.
+- Crafted users’ conversations and implemented them using Finite State Machines.
 
-- Involved in designing and developing a Chatbot for a Human Resource (HR) system, I was the sole owner of all the Machine Learning components and the prime developer.
-- I was responsible for all bug fixes, documentation and feature implementation for these components.
-- Built Classifiers using Neural Networks and few traditional Machine Learning Algorithms to handle 40 distinct skills. Alongside Classifiers, I've built various Parsers to provide rich customer experience.
-- I've crafted users’ conversations and implemented them using Finite State Machines.
-
+Mentions: Top 20 apps on Microsoft teams.
 
 ### Internships
 
 **Sense Infinity Technologies (2016)**
 
-- Designed and developed a Cross-Platform Food Delivery Application written with AngularJS (Ionic Framework and Cordova).
-- Involved in building backend for a restaurant booking application using PHP (Laravel).
+- Designed and developed a Cross-Platform [Food Delivery Application](https://staple.today/) written with AngularJS (Ionic Framework and Cordova). 
+- Involved in building backend for a [Restaurant Booking application](https://play.google.com/store/apps/details?id=com.sense.today.ballyhoo) using PHP (Laravel).
 
 
 **Maruti Suzuki (2014)**
 
-- Worked as a Car Service Floor trainee.
+- Worked with Floor supervisors and Mechanics as a Service Floor trainee.
 
 
 ### Volunteering
 
-- Built website for an [NGO](http://panchajanya.org) I work for, in 2018.
-
+- Volunteer of [Lohit Library movement](http://www.lohit-libraries.org)
+- Core member of [Panchajanya Foundation](http://panchajanya.org), 2012-2020
 
 ### Freelancing
 
@@ -68,12 +74,24 @@ Having worked with early stage startups most of my career, I have had the opport
 - Reviewed code and designed few Python components for a Stealth Startup in 2017.
 - Full stack dev and consulting at an Ed-tech startup.
 
+### Tech Consulting
+
+**Vrook (2019 - Present)** [Website](https://vrook.co)
+
+- Involved in planning and implementing strategies for Online pedagogy.
+- Developing technology plan and providing continuous support in building learner-centric online learning platform.
+
+## My work in Music
+
+- Plays acoustic guitar.
+- Certified Carnatic singer.
+
 
 ## Personal projects
 
 My personal technical projects and open source contributions are [here](https://github.com/akki2825).
 
-My non-technical project (in Material Science) was to analyse Corrosion and Wear behaviour of developed Fly-ash based Thermal Spray coating.
+My non-technical project (in Material Science) was [to analyse Corrosion and Wear behaviour of developed Fly-ash based Thermal Spray coating](https://drive.google.com/file/d/1LkIFr7dWBtssDnqMyTahB9t6dzJGbXx_/view?usp=sharing).
 
 
 ## Education
@@ -87,15 +105,49 @@ Since I'm self-taught in Computer Science and Linguistics, I have taken several 
 
 ## Technical Skills
 
+- Programming Languages - Python, Haskell (Beginner), Dart
+- Frameworks - Keras, PyTorch, Flutter
 - [Softwares I use](https://akki2825.github.io/personal-config/2020/05/21/softwares-i-use.html)
-- Programming Languages - Python, Haskell (Beginner), Javascript, PHP
-- Frameworks - PyTorch, Tensorflow
+
+## Proposals submitted
+
+- Dialect-sensitive Text-To-Speech (TTS) systems with prosody transfer for under-resourced Indian languages: the case of Assamese and Mizo
+
+Team: The team comprised of Drs. Kevin Tang, Caroline Wiltshire, Ratree Wayland, Pamir Gogoi (ABD) of the UF Speech, Lexicon and Modeling Lab, and Akhilesh K R.
+
+- Building Nyishi Dictionary and other Datasets
+
+Team: VANI
+
+- Several proposals with [Civicdatalab](https://civicdatalab.in) to various Governments and NGOs.
+
+## Mentions
 
 
-## My work in Music
+- Idu Mishmi Dictionary launch
+  Coverage: [Arunachal Times](https://arunachaltimes.in/index.php/2020/12/14/imcls-launches-mishmi-idu-dictionary-app/), [Pema Khandu, Chief Minister, Arunachal Pradesh](https://m.facebook.com/story.php?story_fbid=4876201042454353&id=1037093553031807&sfnsn=wiwspwa)
 
-- Plays acoustic guitar.
-- Certified Carnatic singer.
+- [The State of Free & Open Source Software in India](https://state-of-foss.in/)
+
+## Teaching
+
+I was the organiser and one of the teaching member of the [LY-CS101 course](https://youtube.com/playlist?list=PLzgT9LNklpYDFav5-jj4IiRYVP91ufMtf), a Lyceum group initiative. The course was primarily aimed at the beginner level Computer Science students in collaboration with National College, Bangalore, India and [Merge Intern](https://www.mergeintern.com/).
+
+## Talks
+
+Promoting Oral traditions using technology through Community efforts [Slides](https://drive.google.com/file/d/1xGsHJO7geZ8K72BfH25YfaBbMYqxqZEe/view?usp=sharing)
+Introduction to Statistical Machine Translation [Slides](https://drive.google.com/file/d/1xds25UpNwHjrY2d2_s0pjhDjVopuAGYp/view?usp=sharing)
+
+Language analysis in Judgements from a data privacy perspective
+
+Pedestrian Head Injury Protection System [Slides](https://drive.google.com/file/d/0ByCselSC-lh5aG1BUmVnSDJjdUlPRDFKQnBqMXFIN2k1MklN/view?usp=sharing)
+
+
+## Others
+
+Mentor at [Facebook Hack Day](https://splashthat.com/sites/view/hackdaybangalore.splashthat.com).
+
+Organizer for HacktoberFest 2019 at the National College, Bangalore.
 
 
 ## Other Interests
@@ -109,7 +161,6 @@ Since I'm self-taught in Computer Science and Linguistics, I have taken several 
 ### Social
 
 - Part of a local science club and an [NGO](http://panchajanya.org).
-
 
 ## Contact Me
 
