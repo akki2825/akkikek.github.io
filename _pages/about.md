@@ -8,6 +8,7 @@ permalink: /about/
 
 **I'm Akhilesh**. I’m a **Natural Language Processing (NLP) Engineer** working on **Indic languages** (specifically, North-East Indian languages). My primary research interests include Natural language processing, Indigenous language revitalization and Edu-tech.
 
+[Resume](https://drive.google.com/file/d/11DMtBifGiWY3KxJOzTJV6qZcwg0w6i5V/view?usp=sharing)
 
 ## Experience
 
@@ -123,7 +124,6 @@ Team: VANI
 
 ## Mentions
 
-
 - Idu Mishmi Dictionary launch
   Coverage: [Arunachal Times](https://arunachaltimes.in/index.php/2020/12/14/imcls-launches-mishmi-idu-dictionary-app/), [Pema Khandu, Chief Minister, Arunachal Pradesh](https://m.facebook.com/story.php?story_fbid=4876201042454353&id=1037093553031807&sfnsn=wiwspwa)
 
@@ -141,13 +141,6 @@ Introduction to Statistical Machine Translation [Slides](https://drive.google.co
 Language analysis in Judgements from a data privacy perspective
 
 Pedestrian Head Injury Protection System [Slides](https://drive.google.com/file/d/0ByCselSC-lh5aG1BUmVnSDJjdUlPRDFKQnBqMXFIN2k1MklN/view?usp=sharing)
-
-
-## Others
-
-Mentor at [Facebook Hack Day](https://splashthat.com/sites/view/hackdaybangalore.splashthat.com).
-
-Organizer for HacktoberFest 2019 at the National College, Bangalore.
 
 
 ## Other Interests
