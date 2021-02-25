@@ -4,11 +4,12 @@ title: About Me
 permalink: /about/
 ---
 
+[[Download Resume]](https://drive.google.com/file/d/1499rDb5ZDDPGIQrBmP3c5WMNxiMadWRF/view?usp=drivesdk)
+
 **Hi!**
 
 **I'm Akhilesh**. I’m a **Natural Language Processing (NLP) Engineer** working on **Indic languages** (specifically, North-East Indian languages). My primary research interests include Natural language processing, Indigenous language revitalization and Edu-tech.
 
-[Download Resume](https://drive.google.com/file/d/1499rDb5ZDDPGIQrBmP3c5WMNxiMadWRF/view?usp=drivesdk)
 
 ## Experience
 
