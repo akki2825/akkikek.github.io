@@ -8,7 +8,7 @@ permalink: /about/
 
 **I'm Akhilesh**. I’m a **Natural Language Processing (NLP) Engineer** working on **Indic languages** (specifically, North-East Indian languages). My primary research interests include Natural language processing, Indigenous language revitalization and Edu-tech.
 
-[Resume](https://drive.google.com/file/d/11DMtBifGiWY3KxJOzTJV6qZcwg0w6i5V/view?usp=sharing)
+[Download Resume](https://drive.google.com/file/d/1499rDb5ZDDPGIQrBmP3c5WMNxiMadWRF/view?usp=drivesdk)
 
 ## Experience
 
@@ -88,14 +88,14 @@ Mentions: Top 20 apps on Microsoft teams.
 - Certified Carnatic singer.
 
 
-## Personal projects
+### Personal projects
 
 My personal technical projects and open source contributions are [here](https://github.com/akki2825).
 
 My non-technical project (in Material Science) was [to analyse Corrosion and Wear behaviour of developed Fly-ash based Thermal Spray coating](https://drive.google.com/file/d/1LkIFr7dWBtssDnqMyTahB9t6dzJGbXx_/view?usp=sharing).
 
 
-## Education
+### Education
 
 **Bachelor of Automobile Engineering (2012-2016)**
 
@@ -104,36 +104,32 @@ I completed my Bachelor of Engineering in Automobile Engineering from Dayanand S
 Since I'm self-taught in Computer Science and Linguistics, I have taken several in-person courses and MOOCs through the time.
 
 
-## Technical Skills
+### Technical Skills
 
 - Programming Languages - Python, Haskell (Beginner), Dart
 - Frameworks - Keras, PyTorch, Flutter
 - [Softwares I use](https://akki2825.github.io/personal-config/2020/05/21/softwares-i-use.html)
 
-## Proposals submitted
+### Proposals submitted
 
-- Dialect-sensitive Text-To-Speech (TTS) systems with prosody transfer for under-resourced Indian languages: the case of Assamese and Mizo
+- **Dialect-sensitive Text-To-Speech (TTS) systems with prosody transfer for under-resourced Indian languages: the case of Assamese and Mizo**. Team: The team comprised of Drs. Kevin Tang, Caroline Wiltshire, Ratree Wayland, Pamir Gogoi (ABD) of the UF Speech, Lexicon and Modeling Lab, and Akhilesh K R.
 
-Team: The team comprised of Drs. Kevin Tang, Caroline Wiltshire, Ratree Wayland, Pamir Gogoi (ABD) of the UF Speech, Lexicon and Modeling Lab, and Akhilesh K R.
-
-- Building Nyishi Dictionary and other Datasets
-
-Team: VANI
+- **Building Nyishi Dictionary and other Datasets**. Team: Akhilesh K R and Rutwik Phatak.
 
 - Several proposals with [Civicdatalab](https://civicdatalab.in) to various Governments and NGOs.
 
-## Mentions
+### Mentions
 
 - Idu Mishmi Dictionary launch
   Coverage: [Arunachal Times](https://arunachaltimes.in/index.php/2020/12/14/imcls-launches-mishmi-idu-dictionary-app/), [Pema Khandu, Chief Minister, Arunachal Pradesh](https://m.facebook.com/story.php?story_fbid=4876201042454353&id=1037093553031807&sfnsn=wiwspwa)
 
 - [The State of Free & Open Source Software in India](https://state-of-foss.in/)
 
-## Teaching
+### Teaching
 
 I was the organiser and one of the teaching member of the [LY-CS101 course](https://youtube.com/playlist?list=PLzgT9LNklpYDFav5-jj4IiRYVP91ufMtf), a Lyceum group initiative. The course was primarily aimed at the beginner level Computer Science students in collaboration with National College, Bangalore, India and [Merge Intern](https://www.mergeintern.com/).
 
-## Talks
+### Talks
 
 Promoting Oral traditions using technology through Community efforts [Slides](https://drive.google.com/file/d/1xGsHJO7geZ8K72BfH25YfaBbMYqxqZEe/view?usp=sharing)
 Introduction to Statistical Machine Translation [Slides](https://drive.google.com/file/d/1xds25UpNwHjrY2d2_s0pjhDjVopuAGYp/view?usp=sharing)
@@ -155,7 +151,7 @@ Pedestrian Head Injury Protection System [Slides](https://drive.google.com/file/
 
 - Part of a local science club and an [NGO](http://panchajanya.org).
 
-## Contact Me
+### Contact Me
 
 You can message me via:
 
