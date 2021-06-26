@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-[[Download Resume]](https://drive.google.com/file/d/1499rDb5ZDDPGIQrBmP3c5WMNxiMadWRF/view?usp=drivesdk)
+[[Download Resume]](https://drive.google.com/file/d/0B0q_P0jot7r-clBfZ1JpTmtZaDQ/view?usp=sharing&resourcekey=0-dDGO9ZboWpi8fUz_73Ns7A)
 
 **Hi!**
 
